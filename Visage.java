@@ -2,6 +2,7 @@
 
 import java.awt.Graphics;
 //comments 1
+/comments 2
 public class Visage {
 	 // ---------------------------------------------------------
     // Les constantes de la classe Visage
