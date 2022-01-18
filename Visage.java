@@ -1,7 +1,7 @@
-package videoShowSolution;
+﻿package videoShowSolution;
 
 import java.awt.Graphics;
-
+//comments 1
 public class Visage {
 	 // ---------------------------------------------------------
     // Les constantes de la classe Visage
